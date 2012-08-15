@@ -27,6 +27,8 @@
 				</div>
 			</div>
 		</aside>
+		<h1>Home</h1>
+		<p>Just a template.</p>
 	</div>
 	<footer>
 		&copy; ev-services.info 2012. All rights reserved.
